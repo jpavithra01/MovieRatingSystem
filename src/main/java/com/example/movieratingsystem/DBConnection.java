@@ -8,7 +8,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/movieratingdb";
     private static final String USER = "root";
-    private static final String PASSWORD = "Pavimysql@25";
+    private static final String PASSWORD = "Password";
 
     public static Connection getConnection() {
         try {
